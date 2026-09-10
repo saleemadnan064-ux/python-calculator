@@ -1,6 +1,6 @@
-# Python Calculator
+# Python Scientific Calculator
 
-A simple calculator application built with Python.
+A scientific calculator application built with Python, designed to perform basic and advanced mathematical calculations through a user-friendly interface.
 
 ## Features
 
@@ -8,17 +8,24 @@ A simple calculator application built with Python.
 - Subtraction
 - Multiplication
 - Division
-- User-friendly interface
+- Scientific calculations
+- Trigonometric functions
+- Logarithmic functions
+- Square root
+- Powers and exponents
+- Percentage calculations
 - Error handling
+- User-friendly GUI
 
 ## Technologies Used
 
 - Python
 - GUI Development
+- Mathematical Functions
 
 ## Purpose
 
-This project was created to practice Python programming, GUI development, and basic application logic.
+This project was developed to practice Python programming, GUI development, mathematical operations, and application logic.
 
 ## Author
 
